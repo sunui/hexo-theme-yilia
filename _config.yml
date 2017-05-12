@@ -67,7 +67,7 @@ duoshuo: sunui
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#4d4d4d'
+  header: '#326480'
   # 右滑板块背景
   slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
 
@@ -83,10 +83,10 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  # friends: '友链'
   aboutme: '关于我'
 
-friends:
-  友情链接1: http://localhost:4000/
+# friends:
+#   友情链接1: http://localhost:4000/
 
-aboutme: 您好<br><br><br>'<a href="/demo/resume"></a>'
+aboutme: 您好，我叫孙鑫磊,是一名前端工程师</br>目前在北京的一家大数据公司</br>从事前端开发工作.</br>
