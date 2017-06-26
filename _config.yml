@@ -7,8 +7,8 @@ menu:
 # SubNav
 subnav:
   github: //github.com/sunui
-  rss: /atom.xml
-  zhihu: //www.zhihu.com/people/suncafe
+  # rss: /atom.xml
+  # zhihu: //www.zhihu.com/people/suncafe
   #qq: "#"
   weixin: //suns.oss-cn-beijing.aliyuncs.com/us/weixin.png
   #jianshu: "#"
@@ -89,4 +89,4 @@ smart_menu:
 # friends:
 #   友情链接1: http://localhost:4000/
 
-aboutme: 您好，我叫孙鑫磊,是一名前端工程师</br>目前在北京的一家大数据公司</br>从事前端开发工作.</br>
+aboutme: 您好，我是磊仔,一名前端工程师，目前在北京的一家大数据公司从事 WEB 前端开发工作。
